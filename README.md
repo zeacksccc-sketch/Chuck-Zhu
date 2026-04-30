@@ -6,4 +6,4 @@ See all standards -> [進入資料夾查看](#)
 
 | 輸出圖卡 (Output) |
 | :---: |
-| ![C=0 零缺點抽樣作業 SOP](ChatGPT 抽樣SOP.png) |
+| !ChatGPT 抽樣SOP.png |
